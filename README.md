@@ -1,1 +1,0 @@
-# bilisim_vue_bilisim
